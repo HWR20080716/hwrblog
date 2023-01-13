@@ -1,0 +1,51 @@
+#page {	LEFT: 0px; POSITION: absolute; TOP: 0px}
+body{FONT-SIZE:9pt }
+DIV {COLOR:#000000}
+td{FONT-SIZE:9pt}
+
+A:link{COLOR:#000000;TEXT-DECORATION:none}
+A:visited{COLOR:#000000;TEXT-DECORATION:none}
+A:active{COLOR:#ff9900}
+A:hover{COLOR:#ff9900;TEXT-DECORATION:underline}
+
+A.redlion:link{COLOR:#000000;TEXT-DECORATION:none}
+A.redlion:visited{COLOR:#000000;TEXT-DECORATION:none}
+A.redlion:active{COLOR:#ff9900}
+A.redlion:hover{COLOR:#ff9900;TEXT-DECORATION:underline}
+
+.volumeccss {height:30;}
+.dccss{font-size:20px;color:#FFFFFF;height:24px;overflow:hidden;line-height:150%;}
+
+.STYLE4 {font-size: 10pt}
+.STYLE5 {
+	font-size: 11pt;
+	color: #A52A2A;
+}
+
+
+td.TableBody1
+{
+
+padding-left:6;
+padding-right:6;
+padding-top:6;
+padding-bottom:6;
+}
+
+td.TableBody2
+{
+font-weight:bold;
+font-size:14px;
+
+padding-left:6;
+padding-right:6;
+padding-top:6;
+padding-bottom:6;
+}
+.ttop {WIDTH: 100%}
+.dmenu {VERTICAL-ALIGN: top; TEXT-ALIGN: left}
+.dtime {VERTICAL-ALIGN: top; TEXT-ALIGN: right}
+.time {BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 10pt; BORDER-LEFT-COLOR: #f0f0f0; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #f0f0f0; WIDTH: 82px; COLOR: #000000; BORDER-TOP-COLOR: #f0f0f0; LINE-HEIGHT: 12pt; FONT-FAMILY: "ËÎÌו"; BACKGROUND-COLOR: #FDF1F1; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #f0f0f0}
+#txt{font-size:15pt;line-height:150%;font-family:"ËÎÌו";}
+.KBStatic{Z-INDEX: 25; LEFT: 0px; POSITION: absolute; TOP: 0px}
+.cover{border:5px solid #FFFFFF;filter:progid:DXImageTransform.Microsoft.Shadow(color=#333333,direction=135,strength=5);}
